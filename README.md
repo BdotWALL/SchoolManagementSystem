@@ -1,0 +1,1 @@
+Follow along with the video where you will be shown how to build a school management system step by step with OOP concepts learned so far. This will prepare you well for tomorrow's project and give you something to flex on your GitHub! Reply with the link to your repo once you have completed it.
